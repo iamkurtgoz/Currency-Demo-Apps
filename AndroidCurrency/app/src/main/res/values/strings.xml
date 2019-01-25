@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Currency</string>
+
+    <string name="splash_text">Currency Api with fixer.io</string>
+</resources>
